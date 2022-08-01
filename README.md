@@ -1,7 +1,7 @@
 ### live-weather-status-js
 This is website to check the Live Weather Status for cities.
 
-[Check Online:] (https://pooja-chaudhary.github.io/live-weather-status-js)
+[Check Online](https://pooja-chaudhary.github.io/live-weather-status-js)
 
 ```
 Copyright (c) 2022 Pooja Chaudhary
